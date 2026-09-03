@@ -945,6 +945,11 @@ main {
   background: var(--jet);
 }
 
+.timeline-item:first-child::before {
+  top: 5px;
+  height: calc(100% + 20px);
+}
+
 .timeline-item::after {
   content: "";
   position: absolute;
