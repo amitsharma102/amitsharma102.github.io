@@ -7,7 +7,7 @@ An interactive and responsive personal portfolio website showcasing my projects.
 - **Structure**: HTML5
 - **Styling**: CSS3 (Vanilla CSS)
 - **Logic**: JavaScript (ES6+)
-- **Icons**: [IonIcons](https://ionic.io/icons)
+- **Icons**: [IonIcons](https://ionic.io/ionicons)
 - **Typography**: Poppins (Google Fonts)
 
 ## 📬 Contact
